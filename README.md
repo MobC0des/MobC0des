@@ -1,16 +1,25 @@
-## Hi there 👋
+# MobC0des
 
-<!--
-**MobC0des/MobC0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building for the web, learning the systems underneath it.
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript
+- APIs and backend fundamentals
+- Testing
+- Developer tooling
+- Software engineering fundamentals
+- AI-assisted development
+
+## Building
+
+I'm currently experimenting with small tools that help me go deeper into software engineering, including:
+
+- website audit tooling
+- migration and form inventory tools
+- backend/API projects
+- reusable testing patterns
+
+## Elsewhere
+
+- X: @MobC0des
