@@ -15,10 +15,10 @@ Currently focused on:
 
 I'm currently experimenting with small tools that help me go deeper into software engineering, including:
 
-- website audit tooling
-- migration and form inventory tools
-- backend/API projects
-- reusable testing patterns
+- Website audit tooling
+- Migration and form inventory tools
+- Backend/API projects
+- Reusable testing patterns
 
 ## Elsewhere
 
